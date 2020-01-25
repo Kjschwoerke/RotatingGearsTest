@@ -62,6 +62,13 @@ body {
     padding: 1em;
 }
 
+#logo {
+    height: 75%;
+    width: 75%;
+    -webkit-filter: drop-shadow( 0px 0px 5px rgba(0, 0, 0, .7));
+    filter: drop-shadow( 0px 0px 5px rgba(0, 0, 0, .7));
+}
+
 .spaceMaker p {
     margin: 0 5em;
 }
